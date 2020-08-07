@@ -1,0 +1,2 @@
+https://www.dropbox.com/s/48gztwptustkqay/train.csv.zip
+https://download.mlcc.google.com/mledu-datasets/california_housing_train.csv
