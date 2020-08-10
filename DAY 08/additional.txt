@@ -1,0 +1,2 @@
+https://www.dropbox.com/s/th0u3mpsl71fxit/CertificateTemplate.jpg
+https://api.pokemontcg.io/v1/cards?name={}
