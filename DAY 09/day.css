@@ -1,0 +1,27 @@
+body{
+    background-color: orangered;
+    color: aliceblue;
+}
+h1{
+    text-align: center;
+    font-size: 48px;
+    font-family: cursive;
+}
+img{
+    width: 45%;
+    height: auto;
+    border: 5px black dotted;
+}
+
+ul{
+    list-style-type: lower-roman;
+}
+
+table{
+    width: 30%;
+}
+
+table, td, th{
+    border: 3px solid black;
+    border-collapse: collapse;
+}

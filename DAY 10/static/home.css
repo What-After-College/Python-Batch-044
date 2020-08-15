@@ -1,0 +1,21 @@
+body {
+  background-color: orangered;
+  font-size: 24px;
+  color: aliceblue;
+}
+
+h1 {
+  font-size: 48px;
+  font-family: cursive;
+  text-align: center;
+  color: white;
+}
+p{
+    color: white;
+    font-size: 24px;
+}
+
+img {
+  width: 40%;
+  height: auto;
+}
